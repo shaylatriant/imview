@@ -7,7 +7,7 @@
 #Should migrate much of imviewer functionality here, update to pass/accept and work with axes objects
 
 import matplotlib
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import matplotlib.colors as colors
 from matplotlib.ticker import FormatStrFormatter
